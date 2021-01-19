@@ -1,4 +1,4 @@
 <?php
 
 
-namespa
+namespac

@@ -1,4 +1,4 @@
 <?php
 
 
-namespac
+namespace 

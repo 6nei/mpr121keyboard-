@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jwo
+namespace Jwor

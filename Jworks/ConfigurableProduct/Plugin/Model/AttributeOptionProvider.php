@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jwor
+namespace Jwork

@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jwork
+namespace Jworks

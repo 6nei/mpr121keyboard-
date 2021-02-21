@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\Confi
+namespace Jworks\Config

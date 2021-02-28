@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\Configurab
+namespace Jworks\Configurabl

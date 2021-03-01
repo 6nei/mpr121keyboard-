@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\ConfigurableP
+namespace Jworks\ConfigurablePr

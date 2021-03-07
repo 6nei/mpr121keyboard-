@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\ConfigurableProd
+namespace Jworks\ConfigurableProduc

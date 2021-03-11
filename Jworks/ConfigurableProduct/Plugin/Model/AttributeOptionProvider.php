@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\ConfigurableProduct\Plu
+namespace Jworks\ConfigurableProduct\Plugi

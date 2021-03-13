@@ -1,4 +1,4 @@
 <?php
 
 
-namespace Jworks\ConfigurableProduct\Plugin\Mo
+namespace Jworks\ConfigurableProduct\Plugin\Model;

@@ -2,3 +2,4 @@
 
 
 namespace Jworks\ConfigurableProduct\Plugin\Model;
+

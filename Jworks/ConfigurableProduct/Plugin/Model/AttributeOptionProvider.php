@@ -3,4 +3,4 @@
 
 namespace Jworks\ConfigurableProduct\Plugin\Model;
 
-class AttributeOptionP
+class AttributeOptionProv

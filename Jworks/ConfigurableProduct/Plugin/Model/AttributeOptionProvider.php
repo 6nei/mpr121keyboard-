@@ -7,4 +7,4 @@ class AttributeOptionProvider
 {
 
     /**
-     * {@inh
+     * {@inhe

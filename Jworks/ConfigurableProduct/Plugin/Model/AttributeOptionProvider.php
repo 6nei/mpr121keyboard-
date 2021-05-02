@@ -9,4 +9,4 @@ class AttributeOptionProvider
     /**
      * {@inheritdoc}
      */
-    public function a
+    public function aft

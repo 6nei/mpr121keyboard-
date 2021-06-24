@@ -9,4 +9,4 @@ class AttributeOptionProvider
     /**
      * {@inheritdoc}
      */
-    public function afterGetAttributeOptions(\Magento\ConfigurableProduct\Model\AttributeOptionProvi
+    public function afterGetAttributeOptions(\Magento\ConfigurableProduct\Model\AttributeOptionProvid

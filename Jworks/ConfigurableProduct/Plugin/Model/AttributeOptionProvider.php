@@ -11,4 +11,4 @@ class AttributeOptionProvider
      */
     public function afterGetAttributeOptions(\Magento\ConfigurableProduct\Model\AttributeOptionProvider $subject, array $result)
     {
-        foreach ($resul
+        foreach ($result

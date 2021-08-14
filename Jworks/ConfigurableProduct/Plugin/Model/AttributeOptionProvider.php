@@ -13,4 +13,4 @@ class AttributeOptionProvider
     {
         foreach ($result as &$option) {
 
-            if(isset($option
+            if(isset($option[

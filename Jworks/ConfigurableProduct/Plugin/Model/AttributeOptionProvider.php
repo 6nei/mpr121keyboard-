@@ -17,3 +17,4 @@ class AttributeOptionProvider
                 $option['option_title']  = $option['option_title'].__(' - Out of stock');
             }
         }
+ 

@@ -19,3 +19,4 @@ class AttributeOptionProvider
         }
         return $result;
     }
+}

@@ -8,3 +8,5 @@ use Magento\ConfigurableProduct\Model\ResourceModel\Attribute\OptionSelectBuilde
 use Magento\Framework\DB\Select;
 
 /**
+ * Plugin for OptionSelectBuilderInterface to add stock status filter.
+ */

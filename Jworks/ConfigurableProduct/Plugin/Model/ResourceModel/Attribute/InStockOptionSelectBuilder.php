@@ -11,3 +11,4 @@ use Magento\Framework\DB\Select;
  * Plugin for OptionSelectBuilderInterface to add stock status filter.
  */
 class InStockOptionSelectBuilder
+{

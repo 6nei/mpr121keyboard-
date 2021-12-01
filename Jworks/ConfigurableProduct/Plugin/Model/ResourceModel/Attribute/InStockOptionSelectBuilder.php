@@ -14,3 +14,5 @@ class InStockOptionSelectBuilder
 {
     /**
      * CatalogInventory Stock Status Resource Model.
+     *
+     * @var Status

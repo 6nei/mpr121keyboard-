@@ -12,3 +12,4 @@ use Magento\Framework\DB\Select;
  */
 class InStockOptionSelectBuilder
 {
+    /**

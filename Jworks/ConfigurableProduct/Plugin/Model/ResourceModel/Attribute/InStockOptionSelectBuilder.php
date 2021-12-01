@@ -13,3 +13,4 @@ use Magento\Framework\DB\Select;
 class InStockOptionSelectBuilder
 {
     /**
+     * CatalogInventory Stock Status Resource Model.

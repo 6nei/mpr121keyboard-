@@ -22,3 +22,4 @@ class InStockOptionSelectBuilder
     /**
      * @param Status $stockStatusResource
      */
+    public function __construct(Status $stockStatusResource)

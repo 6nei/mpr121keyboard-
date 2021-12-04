@@ -20,3 +20,4 @@ class InStockOptionSelectBuilder
     private $stockStatusResource;
     
     /**
+     * @param Status $stockStatusResource

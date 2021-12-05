@@ -24,3 +24,5 @@ class InStockOptionSelectBuilder
      */
     public function __construct(Status $stockStatusResource)
     {
+        $this->stockStatusResource = $stockStatusResource;
+    }

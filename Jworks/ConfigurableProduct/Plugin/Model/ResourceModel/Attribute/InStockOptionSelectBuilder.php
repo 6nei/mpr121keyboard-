@@ -26,3 +26,6 @@ class InStockOptionSelectBuilder
     {
         $this->stockStatusResource = $stockStatusResource;
     }
+
+    /**
+     * Add stock status filter to select.

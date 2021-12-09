@@ -29,3 +29,5 @@ class InStockOptionSelectBuilder
 
     /**
      * Add stock status filter to select.
+     *
+     * @param OptionSelectBuilderInterface $subject

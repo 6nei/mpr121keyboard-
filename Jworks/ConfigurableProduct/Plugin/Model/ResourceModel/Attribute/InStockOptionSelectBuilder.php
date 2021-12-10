@@ -32,3 +32,6 @@ class InStockOptionSelectBuilder
      *
      * @param OptionSelectBuilderInterface $subject
      * @param Select $select
+     * @return Select
+     *
+     * @SuppressWarnings(PHPMD.UnusedFormalParameter)

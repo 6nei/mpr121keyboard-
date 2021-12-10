@@ -39,3 +39,4 @@ class InStockOptionSelectBuilder
     public function afterGetSelect(OptionSelectBuilderInterface $subject, Select $select)
     {
         $select->joinInner(
+            ['stock' => $this->stockStatusResource->getMainTable()],

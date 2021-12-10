@@ -35,3 +35,7 @@ class InStockOptionSelectBuilder
      * @return Select
      *
      * @SuppressWarnings(PHPMD.UnusedFormalParameter)
+     */
+    public function afterGetSelect(OptionSelectBuilderInterface $subject, Select $select)
+    {
+        $select->joinInner(

@@ -43,3 +43,5 @@ class InStockOptionSelectBuilder
             'stock.product_id = entity.entity_id',
             ['stock.stock_status']
         );
+        
+        return $select;

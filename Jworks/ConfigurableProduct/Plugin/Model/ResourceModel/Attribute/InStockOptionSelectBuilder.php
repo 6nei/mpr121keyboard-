@@ -42,3 +42,4 @@ class InStockOptionSelectBuilder
             ['stock' => $this->stockStatusResource->getMainTable()],
             'stock.product_id = entity.entity_id',
             ['stock.stock_status']
+        );

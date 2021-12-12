@@ -46,3 +46,4 @@ class InStockOptionSelectBuilder
         
         return $select;
     }
+}

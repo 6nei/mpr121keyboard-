@@ -3,3 +3,4 @@
   "name": "jworks/module-configurableproduct",
   "description": "Jworks configurableproduct updates",
   "require": {
+    "magento/module-catalog": "101.0.*"

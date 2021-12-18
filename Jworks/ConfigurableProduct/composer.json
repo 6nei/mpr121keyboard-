@@ -4,3 +4,5 @@
   "description": "Jworks configurableproduct updates",
   "require": {
     "magento/module-catalog": "101.0.*"
+  },
+  "type": "magento2-module",

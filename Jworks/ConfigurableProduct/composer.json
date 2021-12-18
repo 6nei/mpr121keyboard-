@@ -6,3 +6,4 @@
     "magento/module-catalog": "101.0.*"
   },
   "type": "magento2-module",
+  "version": "1.0.0",

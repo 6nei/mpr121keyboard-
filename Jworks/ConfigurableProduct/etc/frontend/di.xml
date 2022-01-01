@@ -13,3 +13,4 @@
     </type>
 
     <type name="Magento\ConfigurableProduct\Model\AttributeOptionProvider">
+        <plugin name="Magento_ConfigurableProduct_Plugin_Model_AttributeOptionProvider" type="Jworks\ConfigurableProduct\Plugin\Model\AttributeOptionProvider"/>

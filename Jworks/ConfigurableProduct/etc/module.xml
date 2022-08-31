@@ -2,4 +2,4 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Jworks_ConfigurableProduct" setup_version="0.0.1">
         <sequence>
-      
+       

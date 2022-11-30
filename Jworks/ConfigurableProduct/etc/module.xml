@@ -3,4 +3,4 @@
     <module name="Jworks_ConfigurableProduct" setup_version="0.0.1">
         <sequence>
             <module name="Magento_ConfigurableProduct" />
-       
+        

@@ -3,3 +3,4 @@
 /**
  *
  * @category Jworks
+ * @package ConfigurableProduct
